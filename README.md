@@ -5,4 +5,4 @@ to list and visually present information about various cities. I wanted to write
 ## Technologies
 * Android SDK: The application is developed for the Android platform.
 * RecyclerView: Used for dynamically listing data.
-* Java/Kotlin: The primary programming language used for the application.
+* Kotlin: The primary programming language used for the application.
